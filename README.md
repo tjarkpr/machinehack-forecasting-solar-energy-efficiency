@@ -10,7 +10,7 @@
 ⚡️ Remember, accurate forecasting of solar energy production is crucial for efficient energy management and sustainability. So, join this challenge today, and win the opportunity to showcase your skills and contribute to a greener future. 🌿🌍
 ## Latest Results (Training-Dataset)
 <b>Loss (MSE):</b><br>
-![](./docs/epoch_loss.svg)
+![](./docs/mse.png)
 
 <b>MAE:</b><br>
-![](./docs/epoch_mae.svg)
+![](./docs/mae.png)
